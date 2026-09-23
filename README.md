@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi, I'm Yunus Emre 👋
 
-<!--
-**GetoSuguru01/GetoSuguru01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Engineering student building a solid foundation in cybersecurity, on both the offensive and the defensive side. This profile is my learning log: the tools I write, my homelab experiments and my write-ups.
 
-Here are some ideas to get you started:
+### 🌱 Currently learning
+- Networking fundamentals (OSI / TCP-IP, subnetting) and Linux, with HTB Academy
+- Python for security automation
+- Building a VMware homelab with Kali Linux and Ubuntu Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Projects
+Coming soon: security tools, homelab notes and write-ups.
+
+### 🎯 Goals
+- Build hands-on skills across red and blue team work, then choose a focus
+- Explore LLM-assisted security alert triage for my graduation project
+- Land a security internship in Europe after graduating in 2027
